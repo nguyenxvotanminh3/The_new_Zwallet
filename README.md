@@ -5,7 +5,7 @@ Here’s a more polished and detailed README introduction for Zwallet with bette
 # Zwallet  
 
 [![🎥 Watch the Demo Video](https://img.shields.io/badge/🎥_Watch_Demo-Click_Here-blue?style=for-the-badge)](https://www.youtube.com/watch?v=DEMO_VIDEO_ID)  
-[![🌐 Try the Web App](https://img.shields.io/badge/🌐_Try_Web_App-Click_Here-green?style=for-the-badge)]([https://your-web-app-link.com](https://youtu.be/Z62gVtr6eT8))  
+[![🌐 Try the Web App](https://youtu.be/Z62gVtr6eT8)]([https://your-web-app-link.com](https://youtu.be/Z62gVtr6eT8))  
 
 ---
 
