@@ -5,7 +5,19 @@ Here’s a more polished and detailed README introduction for Zwallet with bette
 # Zwallet  
 
 [![🎥 Watch the Demo Video]
-https://github.com/user-attachments/assets/4b32ddc7-f642-4700-89e9-9b3a3d26056e
+# Zwallet  
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="
+https://github.com/user-attachments/assets/4b32ddc7-f642-4700-89e9-9b3a3d26056e" 
+    title="Demo Video" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
 
 <a href="https://youtu.be/Z62gVtr6eT8">
     <img src="" alt="🌐 Video of webapp">
